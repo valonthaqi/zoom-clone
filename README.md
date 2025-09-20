@@ -16,7 +16,7 @@ This app allows users to authenticate, create meetings, join video calls, and co
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** Next.js 14, TypeScript, TailwindCSS
+- **Frontend:** Next.js, TypeScript, TailwindCSS
 - **Authentication:** Clerk
 - **Video API:** Stream
 - **Deployment:** Vercel
