@@ -29,3 +29,4 @@ Clone the repo and install dependencies:
 git clone https://github.com/valonthaqi/zoom-clone.git
 cd zoom-clone
 npm install
+npm run dev
