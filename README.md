@@ -22,23 +22,6 @@ This app allows users to authenticate, create meetings, join video calls, and co
 
 ---
 
-## 🌐 Environment Variables
-
-Create a .env.local file in the root of your project and add your API keys:
-
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
-CLERK_SECRET_KEY=your_clerk_secret_key
-
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/
-
-NEXT_PUBLIC_STREAM_API_KEY=your_stream_api_key
-STREAM_SECRET_KEY=your_stream_secret_key
-
-NEXT_PUBLIC_BASE_URL=http://localhost:3000
-Note: Replace all your_*_key placeholders with your own keys from Clerk and Stream.
 
 ## ⚙️ Installation
 Clone the repo and install dependencies:
